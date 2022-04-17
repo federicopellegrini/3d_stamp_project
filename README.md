@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Cos'è la stampante 3D?
 
-You can use the [editor on GitHub](https://github.com/federicopellegrini/3d_stamp_project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+la stampante 3d è  ...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
