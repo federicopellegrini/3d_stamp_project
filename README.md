@@ -2,7 +2,7 @@
 
 la stampante 3d è  ...
 
-Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.make-shape.com%2Fcome-funziona-una-stampante-3d%2F&psig=AOvVaw0mIS-gvyEmF1ywdcHPYmWM&ust=1650306421891000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOCd_tXcm_cCFQAAAAAdAAAAABAK)
+[Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.make-shape.com%2Fcome-funziona-una-stampante-3d%2F&psig=AOvVaw0mIS-gvyEmF1ywdcHPYmWM&ust=1650306421891000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOCd_tXcm_cCFQAAAAAdAAAAABAK)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
