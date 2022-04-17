@@ -2,6 +2,8 @@
 
 la stampante 3d è  ...
 
+https://www.make-shape.com/wp-content/uploads/2019/09/come_funziona_una_stampante_3D.jpg
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
