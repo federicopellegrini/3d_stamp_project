@@ -13,4 +13,4 @@ Si è svolto in poche fasi, che sono in generale quelle che servono per la reali
 
 La creazione del modello 3D è la parte più lunga, può richiedere da diverse ore a diversi giorni per la realizzazione di progetti più complessi, essendo che io avevo un oggetto piccolo e non esageratamente dettagliato ci ho messo tra le 6 e le 7 ore per completarlo.
 
-- stampa dell’oggetto, dopo aver esportato il progetto in STL lo ho importato alla stampante 3D, che ha fatto tutto il resto del lavoro.
+- stampa dell’oggetto, dopo aver esportato il progetto in [STL](https://it.wikipedia.org/wiki/STL_(formato_di_file)) lo ho importato alla stampante 3D, che ha fatto tutto il resto del lavoro.
