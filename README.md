@@ -7,7 +7,7 @@ Prima di parlare di stampante 3D si dovrebbe avere bene in mente il concetto di 
 ## il progetto
 Ciò di cui mi sono occupato per il progetto di robotica è stata la creazione di un oggetto a mia scelta sfruttando la stampante 3D a mia diposizione.
 
-Si è svolo in poche fasi, che sono in generale quelle che servono per la realizzazione di un qualsiasi oggetto 3D tramite la stampante.
+Si è svolto in poche fasi, che sono in generale quelle che servono per la realizzazione di un qualsiasi oggetto 3D tramite la stampante.
 
 - realizzazione dell’oggetto su AutoCAD, essendo che avevo pieno arbitrio sul progetto ho scelto di creare un piccolo gadget in riferimento al franchise di carte collezionabili, anime e manga di [Yu-Gi-Oh](https://www.yugioh-card.com/it/), essendo che io sono un grande fan di questo gioco di carte sin da quando avevo 3-4 anni e coltivo questa mia passione tutt’ora, ho scelto di realizzare un portachiavi con il bassorilievo di una delle carte più iconiche di questo gioco sin da quando uscì, il Drago Bianco Occhi Blu, in particolare la l’[immagine del SDK](https://www.kelz0r.dk/magic/images/img2/ygo/kaibaunlimited/sdk04.jpg), Starter Deck: Kaiba.
 
