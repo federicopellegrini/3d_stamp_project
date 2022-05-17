@@ -30,7 +30,11 @@ le caratteristiche del filo sono:
 
 
 ## il progetto
-Ciò di cui mi sono occupato per il progetto di robotica è stata la creazione di un oggetto a mia scelta sfruttando la stampante 3D a mia diposizione.
+Per stampare un oggetto serve ovviamente un progetto. Il progetto si può o creare da soli con un programma di modellazione o progettazione come ad esempio Solid Edge o AutoCAD oppure tanti progtti si possono o scaricare o comprare online su siti appositi,come ad esempio [Cults](https://cults3d.com/en). Il progetto, prima di essere importato nella stampante per poi essere stampato, deve essere esportato come file [STL](https://it.wikipedia.org/wiki/STL_(formato_di_file))
+
+
+## il **MIO** progetto
+In prima persona mi sono voluto Ciò di cui mi sono occupato per il progetto di robotica è stata la creazione di un oggetto a mia scelta sfruttando la stampante 3D a mia diposizione.
 
 Si è svolto in poche fasi, che sono in generale quelle che servono per la realizzazione di un qualsiasi oggetto 3D tramite la stampante.
 
