@@ -1,4 +1,9 @@
-# Cos'è la stampante 3D?
+# Utilizzo della stampante 3D per la prduzione di semplici oggetti di vita quotidiana
+
+La stampante 3D viene utilizzata in industrie per produzioni di massa, soprattutto dioggetti di metallo, ma questo strumento lo può usare chiunque per produrre semplici oggetti, utilizzando stampanti 3D che stampano sfruttando un filamento di plastica  essendo che per fondere la plastica bastano non troppo elevate temperature, rispetto al metallo. Semplici progetti possono essere ad esempio portapenne, portachiavi, cover per telefono, ciabatte, statuine... e con l'utilizzo di diversi tipi di filamento, sempre di plastica, si possono ottenere oggetti più o meno rigidi
+
+
+## Cos'è la stampante 3D?
 
 Prima di parlare di stampante 3D si dovrebbe avere bene in mente il concetto di **stampa 3D**, la stampante 3d è solo il mezzo che ci permette la realizzazione di ciò. La stampa 3D è la realizzazione di oggetti tridimensionali partendo da modelli 3D creati in digitale. La stampante 3D è un macchinario che produce oggetti tramite la stratificazone del materiale da costruzione, nettamente più comodo e semplice rispetto alla produzione sottrattiva
 
