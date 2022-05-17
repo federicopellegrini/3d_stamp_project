@@ -34,12 +34,19 @@ Per stampare un oggetto serve ovviamente un progetto. Il progetto si può o crea
 
 
 ## il **MIO** progetto
-In prima persona mi sono voluto Ciò di cui mi sono occupato per il progetto di robotica è stata la creazione di un oggetto a mia scelta sfruttando la stampante 3D a mia diposizione.
+In prima persona mi sono voluto imbarcare nell'epopea di creare da zero un progetto per la stampante 3D che successivamente avrei stampato.
 
 Si è svolto in poche fasi, che sono in generale quelle che servono per la realizzazione di un qualsiasi oggetto 3D tramite la stampante.
 
-- realizzazione dell’oggetto su AutoCAD, essendo che avevo pieno arbitrio sul progetto ho scelto di creare un piccolo gadget in riferimento al franchise di carte collezionabili, anime e manga di [Yu-Gi-Oh](https://www.yugioh-card.com/it/), essendo che io sono un grande fan di questo gioco di carte sin da quando avevo 3-4 anni e coltivo questa mia passione tutt’ora, ho scelto di realizzare un portachiavi con il bassorilievo di una delle carte più iconiche di questo gioco sin da quando uscì, il Drago Bianco Occhi Blu, in particolare la l’[immagine del SDK](https://www.kelz0r.dk/magic/images/img2/ygo/kaibaunlimited/sdk04.jpg), Starter Deck: Kaiba.
+- realizzazione dell’oggetto su AutoCAD, essendo che avevo pieno arbitrio sul progetto ho scelto di creare un piccolo gadget in riferimento al franchise di carte collezionabili, anime e manga di [Yu-Gi-Oh](https://www.yugioh-card.com/it/), essendo che io sono un grande fan di questo gioco di carte, ho scelto di realizzare un portachiavi con il bassorilievo del puzzle del millennio, oggetto appartenente al protagonista della prima serie del'anime e del manga.
+
+[immagine puzzle del millennio]
+[progetto puzzle del millennio]
 
 La creazione del modello 3D è la parte più lunga, può richiedere da diverse ore a diversi giorni per la realizzazione di progetti più complessi, essendo che io avevo un oggetto piccolo e non esageratamente dettagliato ci ho messo tra le 6 e le 7 ore per completarlo.
 
-- stampa dell’oggetto, dopo aver esportato il progetto in [STL](https://it.wikipedia.org/wiki/STL_(formato_di_file)) lo ho importato alla stampante 3D, che ha fatto tutto il resto del lavoro.
+- stampa dell’oggetto, dopo aver esportato il progetto in STL lo ho importato alla stampante 3D, che ha fatto tutto il resto del lavoro.
+
+[foto puzzle del millennio]
+
+Questo è il risultato finale, è stato stampato due volte perchè ci sono state alcune difficoltà, la prima stampa è quella piccola, con le dimensioni corrette (4x4cm), il poblema non era del progetto in sè ma dellastampante che non è riuscita a stampar alcuni dei dettagli troppo piccoli. La seconda stampa, quella più grande (10x10cm) ha invece avuto il problema che la parte inferiore dell'oggetto si è staccata dalla base della stampante 3D, ciò ha creato quel disallineamento dell'oggetto.
