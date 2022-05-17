@@ -42,7 +42,8 @@ Si è svolto in poche fasi, che sono in generale quelle che servono per la reali
 
 ![yu-gi-oh-puzzle-del-millennio](https://user-images.githubusercontent.com/101673906/168908110-3506b82c-9167-4c4d-b1f1-39ff6821bb54.jpg)
 
-[progetto puzzle del millennio]
+![progetto puzzle del millennio ](https://user-images.githubusercontent.com/101673906/168913131-611fa044-e5ed-49eb-ae28-414f253d0f6c.png)
+
 
 La creazione del modello 3D è la parte più lunga, può richiedere da diverse ore a diversi giorni per la realizzazione di progetti più complessi, essendo che io avevo un oggetto piccolo e non esageratamente dettagliato ci ho messo tra le 6 e le 7 ore per completarlo.
 
