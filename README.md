@@ -40,7 +40,7 @@ Si è svolto in poche fasi, che sono in generale quelle che servono per la reali
 
 - realizzazione dell’oggetto su AutoCAD, essendo che avevo pieno arbitrio sul progetto ho scelto di creare un piccolo gadget in riferimento al franchise di carte collezionabili, anime e manga di [Yu-Gi-Oh](https://www.yugioh-card.com/it/), essendo che io sono un grande fan di questo gioco di carte, ho scelto di realizzare un portachiavi con il bassorilievo del puzzle del millennio, oggetto appartenente al protagonista della prima serie del'anime e del manga.
 
-[immagine puzzle del millennio]
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tomshw.it%2Fculturapop%2Fyu-gi-oh-bandai-produce-replica-puzzle-millennio%2F&psig=AOvVaw23dNzhHoSO0mQvT5vTFADd&ust=1652906593738000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPDHwIez5_cCFQAAAAAdAAAAABAE)
 [progetto puzzle del millennio]
 
 La creazione del modello 3D è la parte più lunga, può richiedere da diverse ore a diversi giorni per la realizzazione di progetti più complessi, essendo che io avevo un oggetto piccolo e non esageratamente dettagliato ci ho messo tra le 6 e le 7 ore per completarlo.
