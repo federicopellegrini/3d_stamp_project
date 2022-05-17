@@ -13,7 +13,6 @@ Prima di parlare di stampante 3D si dovrebbe avere bene in mente il concetto di 
 
 ## Il filo
 Quando si parla di stampa di oggetti di plastica il filo va scelto in base all' utlizzo, ad esempio se si stampa un portapenne serve un filamento rigido e duro, mentre sesi stampa una ciabatta è più comodo un filo morbido e pieghevole.
-
 le caratteristiche del filo sono:
 
 RESISTENZA MECCANICA, Misura il massimo sforzo che un materiale è in grado di sopportare prima che si rompa.
