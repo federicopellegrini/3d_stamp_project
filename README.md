@@ -41,7 +41,6 @@ Si è svolto in poche fasi, che sono in generale quelle che servono per la reali
 - realizzazione dell’oggetto su AutoCAD, essendo che avevo pieno arbitrio sul progetto ho scelto di creare un piccolo gadget in riferimento al franchise di carte collezionabili, anime e manga di [Yu-Gi-Oh](https://www.yugioh-card.com/it/), essendo che io sono un grande fan di questo gioco di carte, ho scelto di realizzare un portachiavi con il bassorilievo del puzzle del millennio, oggetto appartenente al protagonista della prima serie del'anime e del manga.
 
 ![yu-gi-oh-puzzle-del-millennio](https://user-images.githubusercontent.com/101673906/168908110-3506b82c-9167-4c4d-b1f1-39ff6821bb54.jpg)
-
 ![progetto puzzle del millennio ](https://user-images.githubusercontent.com/101673906/168913131-611fa044-e5ed-49eb-ae28-414f253d0f6c.png)
 
 
