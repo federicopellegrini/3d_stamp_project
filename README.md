@@ -48,7 +48,6 @@ La creazione del modello 3D è la parte più lunga, può richiedere da diverse o
 
 - stampa dell’oggetto, dopo aver esportato il progetto in STL lo ho importato alla stampante 3D, che ha fatto tutto il resto del lavoro.
 
-![foto puzzle del millennio](https://user-images.githubusercontent.com/101673906/168914097-b8b71b4a-92d9-4f15-b19a-da783b81b845.jpg)
-
+![foto puzzle del millennio](https://user-images.githubusercontent.com/101673906/168914309-8afeb3f4-0f20-4b89-b8bc-f3fc68cb85e8.jpg)
 
 Questo è il risultato finale, è stato stampato due volte perchè ci sono state alcune difficoltà, la prima stampa è quella piccola, con le dimensioni corrette (4x4cm), il poblema non era del progetto in sè ma dellastampante che non è riuscita a stampar alcuni dei dettagli troppo piccoli. La seconda stampa, quella più grande (10x10cm) ha invece avuto il problema che la parte inferiore dell'oggetto si è staccata dalla base della stampante 3D, ciò ha creato quel disallineamento dell'oggetto.
