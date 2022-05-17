@@ -6,7 +6,7 @@ La stampante 3D viene utilizzata in industrie per produzioni di massa, soprattut
 
 ## Cos'è la stampante 3D?
 
-Prima di parlare di stampante 3D si dovrebbe avere bene in mente il concetto di **stampa 3D**, la stampante 3d è solo il mezzo che ci permette la realizzazione di ciò. La stampa 3D è la realizzazione di oggetti tridimensionali partendo da modelli 3D creati in digitale. La stampante 3D è un macchinario che produce oggetti tramite la stratificazone del materiale da costruzione, nettamente più comodo e semplice rispetto alla produzione sottrattiva
+Prima di parlare di stampante 3D si dovrebbe avere bene in mente il concetto di stampa 3D, la stampante 3d è solo il mezzo che ci permette la realizzazione di ciò. La stampa 3D è la realizzazione di oggetti tridimensionali partendo da modelli 3D creati in digitale. La stampante 3D è un macchinario che produce oggetti tramite la stratificazone del materiale da costruzione, nettamente più comodo e semplice rispetto alla produzione sottrattiva
 
 ![stampante_3_1](https://user-images.githubusercontent.com/101673906/163729054-200a2892-25c4-4917-8a1b-4fbd02448af8.jpg)
 
@@ -15,17 +15,17 @@ Prima di parlare di stampante 3D si dovrebbe avere bene in mente il concetto di 
 Quando si parla di stampa di oggetti di plastica il filo va scelto in base all' utlizzo, ad esempio se si stampa un portapenne serve un filamento rigido e duro, mentre sesi stampa una ciabatta è più comodo un filo morbido e pieghevole.
 le caratteristiche del filo sono:
 
-RESISTENZA MECCANICA, Misura il massimo sforzo che un materiale è in grado di sopportare prima che si rompa.
+**RESISTENZA MECCANICA**, Misura il massimo sforzo che un materiale è in grado di sopportare prima che si rompa.
 
-RIGIDITÀ, Misura la capacità di un materiale di resistere a forze che lo andrebbero a deformare. 
+**RIGIDITÀ**, Misura la capacità di un materiale di resistere a forze che lo andrebbero a deformare. 
 
-ALLUNGAMENTO MEDIO A ROTTURA, Misura l’aumento della lunghezza di un materiale che viene tirato alle estremità, fino al momento in cui perde la sua integrità strutturale e si spezza.
+**ALLUNGAMENTO MEDIO A ROTTURA**, Misura l’aumento della lunghezza di un materiale che viene tirato alle estremità, fino al momento in cui perde la sua integrità strutturale e si spezza.
 
-DUREZZA, Misura il grado di resistenza alla scalfittura di un materiale
+**DUREZZA**, Misura il grado di resistenza alla scalfittura di un materiale
 
-DURABILITÀ, Misura la capacità di un materiale di resistere nel tempo senza degradarsi. 
+**DURABILITÀ**, Misura la capacità di un materiale di resistere nel tempo senza degradarsi. 
 
-FACILITÀ DI STAMPA, Esprime la facilità o la difficoltà a stampare tramite tecnologia FDM il materiale considerato. 
+**FACILITÀ DI STAMPA**, Esprime la facilità o la difficoltà a stampare tramite tecnologia FDM il materiale considerato. 
 
 
 ## il progetto
