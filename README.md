@@ -29,6 +29,7 @@ le caratteristiche del filo sono:
 **FACILITÀ DI STAMPA**, Esprime la facilità o la difficoltà a stampare tramite tecnologia FDM il materiale considerato. 
 
 
+
 ## il progetto
 Per stampare un oggetto serve ovviamente un progetto. Il progetto si può o creare da soli con un programma di modellazione o progettazione come ad esempio Solid Edge o AutoCAD oppure tanti progtti si possono o scaricare o comprare online su siti appositi,come ad esempio [Cults](https://cults3d.com/en). Il progetto, prima di essere importato nella stampante per poi essere stampato, deve essere esportato come file [STL](https://it.wikipedia.org/wiki/STL_(formato_di_file))
 
